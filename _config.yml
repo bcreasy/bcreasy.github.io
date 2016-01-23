@@ -6,16 +6,61 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Brian Creasy
+subtitle: spiral out. keep going.
+author: Brian J. Creasy
+email: genetik@caffeine.nu
+description: The personal website of a human named Brian Creasy.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://www.briancreasy.com"
 
-# Build settings
+# code paths
+source: .
+destination: _site
+plugins_dir: _plugins
+layouts_dir: _layouts
+data_dir: _data
+includes_dir: _includes
+
+# site paths
+root: /
+
+# Handling Reading
+safe: false # safe mode: if true, disable plugins and ignore symlinks
+include:
+  - ".htaccess"
+  - ".well-known"
+exclude: []
+keep_files:
+  - ".git"
+  - ".svn"
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Filtering Content
+show_drafts: null
+limit_posts: 0
+future: false
+unpublished: false
+
+# Plugins
+whitelist: []
+gems:
+  - jekyll-paginate
+
+# Conversion
 markdown: kramdown
+highlighter: rouge
+excerpt_separator: "<!-- more -->"
+
+# Outputting
+permalink: /log/:year/:month/:day/:title/
+paginate_path: /page:num
+timezone: America/Chicago
+locale: en_US
+paginate: 5
+pagination_dir: log
+category_dir: log/categories
+date_format: "%F %T"
+excerpt_link: "Read on &rarr;"
+titlecase: true
