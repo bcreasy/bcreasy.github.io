@@ -22,8 +22,6 @@ There is a scene I love from the first episode of the original "Kung Fu" televis
 
 <iframe width="771" height="386" src="//www.youtube.com/embed/YT77qeSE0Zg" frameborder="0" allowfullscreen></iframe>
 
-{% blockquote %}
-"Life sustains life, and all living creatures need nourishment.  Yet with wisdom, the body learns to sustain in ways so that all may live."
-{% endblockquote %}
+> "Life sustains life, and all living creatures need nourishment.  Yet with wisdom, the body learns to sustain in ways so that all may live."
 
 So as you spend the next few days planning your thanksgiving dinner, please consider leaving all animals off the table.  Focus on celebrating the most important aspect of the holiday: being thankful for family, friends, and happiness.

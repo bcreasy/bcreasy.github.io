@@ -27,4 +27,4 @@ The crit season is rapidly drawing to a close, so I'll soon start training and c
 
 [Strava Log of the Race](https://www.strava.com/activities/394532078)
 
-{% img right /images/posts-embed/driveway-20150917.jpg '2015-09-17 Sheet' '2015-09-17 Sheet' %}
+![2015-09-17 Sheet](/images/posts-embed/driveway-20150917.jpg)

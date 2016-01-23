@@ -51,7 +51,7 @@ I was out of the saddle, dancing away on the pedals up the hill...
 
 "Hey man, your back tire's pretty low," I heard from someone behind me.  I waved goodbye to Jason and Ray and let them know that I was out.
 
-{% img center http://i.imgur.com/b7JlQ.gif 'FFFFFFFFFFFFFFFFFFUUUUUUUUUUUUUUUUUUU--' 'FFFFFFFFFFFFFFFFFFFFFFFFFFFUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU--' %}
+![FFFFFFFFFFFFFFFFFFUUUUUUUUUUUUUUUUUUU--](http://i.imgur.com/b7JlQ.gif)
 
 My body felt amazing halfway through lap 3 of 4, but my race had come to an early demise through no fault of my own or anyone else.
 
