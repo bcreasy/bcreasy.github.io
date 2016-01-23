@@ -1,0 +1,22 @@
+---
+layout: post
+title: "2003-07-20"
+date: 2003-07-20 06:38
+comments: true
+categories: [Meta, Music, Downtime, Comcast, Hardware, Sparc, Software, caffeine.nu]
+---
+switched this log section of caffeine.nu to a database backend.  fun late night, early morning, boredness.
+
+i can't stop listening to [Bl&uuml;mchen](http://www.danceartistinfo.com/blumchen.htm).  mmm, hardcore.happy.  i highly recommend that you check out some of her stuff.
+
+in other music news, i don't like the [new 311 album](http://www.311.com/evolver).  their first album, "music", is still my favorite of their albums.  in my opinion, they've gone downhill from the very beginning.
+
+there's also a new [Thrice](http://www.thrice.net) album.  i like it, but it's no Illusion of Safety.  then again, what is?
+
+ever since comcast took over from attbi, my connection has been less than flakey.  every so often (usually when i'm asleep or not home), the connection just dies and requires me to renew my dhcp lease.  it's very annoying and i have someone from comcast coming over tuesday to see what he can do about it.  i swear to god, if he tells me that it's crudpuppy, i'm going to snap at him.  i haven't changed anything in crudpuppy's configs since long before the problems started to arise.
+
+also, earlier today, sparc's hard drive blew up.  \*fizz\* \*smoke\* \*yanks plug\*.  lost my dhcpd and named config files.  anyone willing to send me a small (2-4gb) 50-pin SCSI drive, please contact me.
+
+another thing.  [listen-to](http://www.listen-to.com) is really awesome, but their xmms plugin is rather lacking.  specifically the id3v2 and ogg support.  soooooo, i wrote in my own support for them.  get the new scripts [here](http://www.cabbits.com/garbage/genetik-listento-xmms.tgz).
+
+okay, back to listening to Bl&uuml;mchen =)
