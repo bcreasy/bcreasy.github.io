@@ -2,7 +2,7 @@
 layout: post
 title: "penn jillette is my hero"
 date: 2005-12-01 23:47
-comments: true
+comments: false
 published: false
 categories:
 - General

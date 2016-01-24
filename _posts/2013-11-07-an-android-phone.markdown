@@ -3,7 +3,7 @@ layout: post
 title: "An Android Phone, Part 1"
 date: 2013-11-07 11:06
 published: true
-comments: true
+comments: false
 categories:
 - General
 tags:

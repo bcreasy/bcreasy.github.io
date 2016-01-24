@@ -2,7 +2,7 @@
 layout: post
 title: "Vegan, or Whatever You'd Prefer To Call It"
 date: 2013-09-06 18:45
-comments: true
+comments: false
 published: true
 categories:
 - General

@@ -2,7 +2,7 @@
 layout: post
 title: "Reading List"
 date: 2005-07-28 02:15
-comments: true
+comments: false
 categories:
 - Meta
 tags:

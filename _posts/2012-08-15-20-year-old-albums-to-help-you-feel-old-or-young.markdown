@@ -2,7 +2,7 @@
 layout: post
 title: "20-year-old albums to help you feel old (or young)"
 date: 2012-08-15 02:22
-comments: true
+comments: false
 categories:
 - General
 tags:

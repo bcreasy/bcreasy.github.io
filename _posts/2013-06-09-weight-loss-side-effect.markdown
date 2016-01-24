@@ -2,7 +2,7 @@
 layout: post
 title: "Weight Loss Is A Side-Effect"
 date: 2013-06-09 11:54
-comments: true
+comments: false
 published: true
 categories:
 - General

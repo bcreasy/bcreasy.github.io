@@ -2,7 +2,7 @@
 layout: post
 title: "2005-03-05"
 date: 2005-03-05 21:17
-comments: true
+comments: false
 categories:
 - Meta
 tags:

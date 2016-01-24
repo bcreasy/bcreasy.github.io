@@ -2,7 +2,7 @@
 layout: post
 title: "Erwin's Makeover"
 date: 2005-05-09 19:05
-comments: true
+comments: false
 categories:
 - General
 tags:

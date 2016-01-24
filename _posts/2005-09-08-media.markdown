@@ -2,7 +2,7 @@
 layout: post
 title: "media"
 date: 2005-09-08 13:04
-comments: true
+comments: false
 categories:
 - General
 tags:

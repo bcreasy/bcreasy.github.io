@@ -3,7 +3,7 @@ layout: post
 title: "Why I Hand-Write Business Cards"
 date: 2015-06-25 21:00:00 -0500
 published: true
-comments: true
+comments: false
 categories:
 - General
 tags:

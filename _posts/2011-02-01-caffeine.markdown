@@ -2,7 +2,7 @@
 layout: post
 title: "Caffeine"
 date: 2011-02-01 08:35
-comments: true
+comments: false
 categories:
 - General
 tags:

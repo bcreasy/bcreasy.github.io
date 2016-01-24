@@ -2,7 +2,7 @@
 layout: post
 title: "New Theme"
 date: 2005-03-27 21:49
-comments: true
+comments: false
 categories:
 - Meta
 tags:

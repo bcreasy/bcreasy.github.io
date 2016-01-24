@@ -3,7 +3,7 @@ layout: post
 title: "Garmin Heartrate Monitor Battery"
 date: 2013-09-08 16:15
 published: true
-comments: true
+comments: false
 categories: 
 - General
 tags:

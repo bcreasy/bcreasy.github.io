@@ -2,7 +2,7 @@
 layout: post
 title: "Better than NcFTP?"
 date: 2005-08-23 22:09
-comments: true
+comments: false
 categories:
 - General
 tags:

@@ -2,7 +2,7 @@
 layout: post
 title: "2004-07-18"
 date: 2004-07-18 20:19
-comments: true
+comments: false
 categories:
 - General
 tags:

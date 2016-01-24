@@ -2,7 +2,7 @@
 layout: post
 title: "apache doom"
 date: 2004-08-16 01:07
-comments: true
+comments: false
 categories:
 - General
 tags:

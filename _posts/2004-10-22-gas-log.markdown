@@ -2,7 +2,7 @@
 layout: post
 title: "Gas Log"
 date: 2004-10-22 00:46
-comments: true
+comments: false
 categories:
 - General
 tags:

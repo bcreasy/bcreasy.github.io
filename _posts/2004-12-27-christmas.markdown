@@ -2,7 +2,7 @@
 layout: post
 title: "christmas"
 date: 2004-12-27 14:46
-comments: true
+comments: false
 categories:
 - Life
 - Lebwog

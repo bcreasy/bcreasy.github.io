@@ -3,7 +3,7 @@ layout: post
 title: "My First Bike Race"
 date: 2014-04-13 22:00
 published: true
-comments: true
+comments: false
 categories:
 - General
 tags:

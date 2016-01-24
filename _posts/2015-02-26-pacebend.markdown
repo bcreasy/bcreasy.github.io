@@ -3,7 +3,7 @@ layout: post
 title: "Race Report: Pace Bend 2015"
 date: 2015-02-26 23:00
 published: true
-comments: true
+comments: false
 categories:
 - General
 tags:
