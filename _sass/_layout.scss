@@ -21,6 +21,7 @@
     &,
     &:visited {
         color: $grey-color-dark;
+        text-decoration: none;
     }
     &:hover {
         text-decoration: none;
@@ -38,10 +39,15 @@
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
+        text-decoration: none;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
             margin-right: 20px;
+        }
+
+        &:hover {
+            color: $accent-color;
         }
     }
 
@@ -185,16 +191,32 @@
     > li {
         margin-bottom: $spacing-unit;
     }
+
+    h2 {
+        margin-bottom: 0;
+
+        a {
+            color: $text-color;
+            text-decoration: none;
+
+            &:hover {
+                color: $accent-color;
+            }
+        }
+    }
 }
 
 .post-meta {
+    display: block;
+    margin-bottom: $spacing-unit / 2;
     font-size: $small-font-size;
     color: $grey-color;
 }
 
 .post-link {
     display: block;
-    font-size: 24px;
+    letter-spacing: -1px;
+    font-size: 30px;
 }
 
 
@@ -203,13 +225,13 @@
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
 }
 
 .post-title {
-    font-size: 42px;
+    display: block;
+    margin-bottom: 0;
+    font-size: 30px;
     letter-spacing: -1px;
-    line-height: 1;
 
     @include media-query($on-laptop) {
         font-size: 36px;
