@@ -243,3 +243,13 @@
         }
     }
 }
+
+a[rel=full-article] {
+    text-decoration: none;
+    color: $brand-color;
+
+    &:hover {
+        text-decoration: underline;
+        color: $brand-color;
+    }
+}
