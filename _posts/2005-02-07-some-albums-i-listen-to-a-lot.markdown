@@ -2,8 +2,8 @@
 layout: post
 title: "some albums i listen to a lot"
 date: 2005-02-07 22:27
+published: true
 comments: false
-published: false
 categories:
 - General
 tags:
