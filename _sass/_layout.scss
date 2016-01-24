@@ -316,3 +316,25 @@ a[rel=full-article] {
         color: $brand-color;
     }
 }
+
+.pagination {
+    position: relative;
+    text-align: center;
+    border-top: 1px solid $grey-color-light;
+    a {
+        text-decoration: none;
+			&.prev {
+					position: absolute;
+					left: 0;
+			}
+      &.next {
+					position: absolute;
+					right: 0;
+			}
+    }
+}
+
+.rss-subscribe {
+    margin-top: $spacing-unit;
+    text-align: center;
+}
