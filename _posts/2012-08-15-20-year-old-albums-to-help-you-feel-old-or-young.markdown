@@ -3,7 +3,11 @@ layout: post
 title: "20-year-old albums to help you feel old (or young)"
 date: 2012-08-15 02:22
 comments: true
-categories: [Music, tumblr]
+categories:
+- General
+tags:
+- Music
+- tumblr
 ---
 Here's a handful of albums from my music archive that turn 20 years old this year (2012), released in 1992:
 

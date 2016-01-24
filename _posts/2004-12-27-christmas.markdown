@@ -3,7 +3,9 @@ layout: post
 title: "christmas"
 date: 2004-12-27 14:46
 comments: true
-categories: [Life, Lebwog]
+categories:
+- Life
+- Lebwog
 ---
 My christmas winnings...
 

@@ -4,7 +4,11 @@ title: "some albums i listen to a lot"
 date: 2005-02-07 22:27
 comments: true
 published: false
-categories: [MySpace, Music]
+categories:
+- General
+tags:
+- MySpace
+- Music
 ---
 When I listen to music that I like, I tend to listen to the same album or series of albums for at least a day straight and usually longer.  There are a good handful of albums that, no matter how many times I listen to them, don't get old or overplayed: (in no special order)
 

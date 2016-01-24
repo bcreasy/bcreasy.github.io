@@ -5,6 +5,8 @@ date: 2013-11-07 11:06
 published: true
 comments: true
 categories:
+- General
+tags:
 - Android
 - Phones
 - iPhone

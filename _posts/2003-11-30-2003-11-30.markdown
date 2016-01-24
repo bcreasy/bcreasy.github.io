@@ -4,6 +4,8 @@ title: "2003-11-30"
 date: 2003-11-30 01:25
 comments: true
 categories:
+- General
+tags:
 - DDR
 - Video Games
 - caffeine.nu

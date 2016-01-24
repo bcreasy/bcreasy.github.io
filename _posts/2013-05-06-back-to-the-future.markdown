@@ -3,7 +3,10 @@ layout: post
 title: "Back to the Future"
 date: 2013-05-11 16:37
 comments: true
-categories: Meta
+categories:
+- Meta
+tags:
+- Meta
 ---
 It's been a while since I've had any sort of public web log content online.  Hell, it's been a while since I've had any sort of public web presence at all (not including [various](http://twitter.com/genetik) [social](http://profiles.google.com/genetik) [media](http://www.youtube.com/genetik123) [sites](http://www.linkedin.com/in/genetik)).  I feel the bug to put myself out there again.
 

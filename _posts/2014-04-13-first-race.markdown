@@ -5,6 +5,8 @@ date: 2014-04-13 22:00
 published: true
 comments: true
 categories:
+- General
+tags:
 - Cycling
 - Race
 - Fitness

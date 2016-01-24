@@ -3,7 +3,11 @@ layout: post
 title: "2002-07-06"
 date: 2002-07-06 00:20
 comments: true
-categories: [Music, caffeine.nu]
+categories:
+- General
+tags:
+- Music
+- caffeine.nu
 ---
     Filesystem    Size   Used  Avail Capacity  Mounted on
     /dev/ad1s1e    30G   7.1G    20G    26%    /mnt/mp3

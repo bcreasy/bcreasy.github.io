@@ -4,6 +4,8 @@ title: "pump it up for ps2"
 date: 2004-11-15 11:14
 comments: true
 categories: 
+- General
+tags:
 - Video Games
 - Pump It Up
 - DDR

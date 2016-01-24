@@ -5,6 +5,7 @@ date: 2005-05-30 20:33
 comments: true
 categories: 
 - Travel
+tags:
 - New York City
 - Lebwog
 ---

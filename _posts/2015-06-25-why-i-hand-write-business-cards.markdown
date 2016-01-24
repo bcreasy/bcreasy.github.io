@@ -5,6 +5,8 @@ date: 2015-06-25 21:00:00 -0500
 published: true
 comments: true
 categories:
+- General
+tags:
 - DevopsDays
 - DIY
 ---

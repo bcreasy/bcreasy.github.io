@@ -3,7 +3,12 @@ layout: post
 title: "Time Traveler Convention - May 7th, 2005AD"
 date: 2005-05-03 09:37
 comments: true
-categories: [Link, Mirror, Lebwog]
+categories:
+- General
+tags:
+- Link
+- Mirror
+- Lebwog
 ---
 Note: This page is a mirror of the original page found [here](http://web.mit.edu/adorai/timetraveler/).  Please make your own mirror of the original page on your own web log or journal and don't link to this one.
 

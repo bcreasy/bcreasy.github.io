@@ -4,6 +4,8 @@ title: "Zelda 2 Remake"
 date: 2005-05-19 18:52
 comments: true
 categories:
+- General
+tags:
 - Video Games
 - Idea
 - Lebwog

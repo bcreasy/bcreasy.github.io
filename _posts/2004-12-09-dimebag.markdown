@@ -3,7 +3,12 @@ layout: post
 title: "'Dimebag' Darrell Abbott"
 date: 2004-12-09 20:06
 comments: true
-categories: [Music, Life, Lebwog]
+categories:
+- General
+tags:
+- Music
+- Life
+- Lebwog
 ---
 Thoughts about the death of Dimebag Darrell.
 

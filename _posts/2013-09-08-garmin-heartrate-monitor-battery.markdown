@@ -5,6 +5,8 @@ date: 2013-09-08 16:15
 published: true
 comments: true
 categories: 
+- General
+tags:
 - Cycling
 - Garmin
 - Hardware

@@ -3,7 +3,12 @@ layout: post
 title: "Story Circles of Community s04e01"
 date: 2013-02-08 14:32
 comments: true
-categories: [Television, Community, tumblr]
+categories:
+- General
+tags:
+- Television
+- Community
+- tumblr
 ---
 *Update: I've [re-evaluated my assessment]({{ root_url }}/log/2013/02/08/updated-evaluation-of-community-s04e01/).*
 

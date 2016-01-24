@@ -3,7 +3,11 @@ layout: post
 title: "2005-03-05"
 date: 2005-03-05 21:17
 comments: true
-categories: [Meta, caffeine.nu]
+categories:
+- Meta
+tags:
+- Meta
+- caffeine.nu
 ---
 Greetings visitors.  As you might notice, I haven't updated this site in quite some time.  There are a few reasons for that.  One is that I got a full-time job with the IT department of a school district.  Another is that I've been working on other projects of my own.  Any little updates I've made since the last update on here have been made on my [<strike>web log</strike>](http://www.lebwog.com/genetik/).  I don't plan on updating stuff on here any time in the forseeable future, so check out the web log.
 

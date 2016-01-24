@@ -3,7 +3,14 @@ layout: post
 title: "irssi SILC plugin on FreeBSD"
 date: 2003-03-16 02:10
 comments: true
-categories: [Server, FreeBSD, SILC, Irssi, caffeine.nu]
+categories:
+- General
+tags:
+- Server
+- FreeBSD
+- SILC
+- Irssi
+- caffeine.nu
 ---
 *compiling irssi-0.8.6.CVS with SILC support:*
 
