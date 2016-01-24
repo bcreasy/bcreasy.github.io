@@ -228,7 +228,9 @@
     font-size: 30px;
 }
 
-
+.tags-title {
+    border-bottom: 1px solid $grey-color-light;
+}
 
 /**
  * Posts
@@ -273,6 +275,12 @@
             font-size: 18px;
         }
     }
+}
+
+p.post-summary {
+    color: $text-color;
+    font-size: 14px;
+    margin-top: -$spacing-unit / 2;
 }
 
 a[rel=full-article] {
