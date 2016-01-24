@@ -232,6 +232,30 @@
     border-bottom: 1px solid $grey-color-light;
 }
 
+#blog-archives {
+    h2 {
+        position: relative;
+        display: inline-block;
+        float: left;
+        clear: both;
+    }
+    article {
+        position: relative;
+        padding-left: 5em;
+        padding-top: 13px;
+        margin-top: 0;
+        margin-bottom: 15px;
+        time {
+            position: absolute;
+            top: 1em;
+        }
+        h1 {
+            margin-bottom: 0;
+            padding-left: 3.5em;
+        }
+    }
+}
+
 /**
  * Posts
  */
