@@ -13,7 +13,7 @@ East Campus Courtyard, MIT<br>
 42:21:36.025&deg;N, 71:05:16.33&deg;W<br>
 (42.360007,-071.087870 in decimal degrees)<br>
 
-<!--more-->
+<!-- more -->
 
 ###What is it?###
 

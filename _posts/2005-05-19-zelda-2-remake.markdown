@@ -9,7 +9,7 @@ categories:
 - Lebwog
 ---
 A Zelda 2 remake.......
-<!--more-->
+<!-- more -->
 
 No, it doesn't exist, but I sure got your attention, didn't I?
 

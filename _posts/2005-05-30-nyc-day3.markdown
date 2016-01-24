@@ -10,7 +10,7 @@ categories:
 ---
 We were planning on going to see the Statue of Liberty this morning, so we headed down to Battery Park to buy tickets.
 
-<!--more-->
+<!-- more -->
 
 Unfortunately, we were greeted by a couple hundred other people in line waiting to get tickets to Liberty Island.  On the PA we heard an announcement saying, "The wait from the end of the line will be about four hours."  That's when we decided to head uptown.
 
