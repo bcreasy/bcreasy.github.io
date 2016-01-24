@@ -49,7 +49,6 @@ whitelist: []
 gems:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-last-modified-at
 
 # Conversion
 markdown: kramdown
