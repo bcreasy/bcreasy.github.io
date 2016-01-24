@@ -35,3 +35,8 @@ During this project, I had to refresh my memory on writing [SASS](http://sass-la
 The site itself is still statically generated and contains zero javascript.  This ensures a fast page load times with the added benefit of being very secure.  I simply clone my repository, commit/push whatever work is needed, then run `jekyll build`.  This generates everything to a `_site` directory which I can then just rsync up to my server.  I like this workflow.
 
 Now that I'm on an up-to-date framework, I'll likely start playing around more with redesigning the site often.  I may actually write more content.  I have a long list of post ideas written down.
+
+Some TODO items:
+
+- Find somewhere to put the little "about" blurb on the main page
+- Maybe include Twitter and Strava feeds again
