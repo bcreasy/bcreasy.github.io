@@ -41,7 +41,6 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Filtering Content
 show_drafts: null
-limit_posts: 0
 future: false
 unpublished: false
 
@@ -59,11 +58,10 @@ excerpt_separator: "<!-- more -->"
 
 # Outputting
 permalink: /log/:year/:month/:day/:title/
-paginate_path: /page:num
 timezone: America/Chicago
 locale: en_US
 paginate: 5
-pagination_dir: log
+paginate_path: "/log/page/:num/"
 category_dir: log/categories
 date_format: "%F %T"
 excerpt_link: "Read on &rarr;"
