@@ -17,6 +17,8 @@ In which I examine the first episode of the 4th season of Community. I'd love to
 
 **Assertion: This episode, while a decent and entertaining return, feels a bit off because it does not follow the standard story circle.**
 
+<!-- more -->
+
 Dan Harmon's Story Circle is defined as:
 
 1. A character is in a zone of comfort,

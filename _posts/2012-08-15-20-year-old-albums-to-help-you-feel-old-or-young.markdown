@@ -12,6 +12,8 @@ tags:
 ---
 Here's a handful of albums from my music archive that turn 20 years old this year (2012), released in 1992:
 
+<!-- more -->
+
 * "Dirt", Alice In Chains
 * "Sap", Alice In Chains
 * "Generator", Bad Religion
