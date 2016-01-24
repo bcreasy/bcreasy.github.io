@@ -41,7 +41,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Filtering Content
 show_drafts: null
-future: false
+future: true
 unpublished: false
 
 # Plugins
