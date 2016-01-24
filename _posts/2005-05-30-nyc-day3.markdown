@@ -2,6 +2,7 @@
 layout: post
 title: "NYC - Day 3 :: Sunday"
 date: 2005-05-30 00:52
+published: true
 comments: false
 categories: 
 - Travel

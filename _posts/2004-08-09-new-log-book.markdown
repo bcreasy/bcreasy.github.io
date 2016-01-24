@@ -2,6 +2,7 @@
 layout: post
 title: "new log book"
 date: 2004-08-09 00:01
+published: true
 comments: false
 categories:
 - Meta

@@ -2,6 +2,7 @@
 layout: post
 title: "Updated Evaluation of Community s04e01"
 date: 2013-02-08 22:03
+published: true
 comments: false
 categories:
 - General

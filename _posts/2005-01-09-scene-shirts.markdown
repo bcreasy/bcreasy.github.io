@@ -2,6 +2,7 @@
 layout: post
 title: "scene shirts"
 date: 2005-01-09 22:25
+published: true
 comments: false
 categories:
 - General

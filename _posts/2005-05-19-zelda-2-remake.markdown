@@ -2,6 +2,7 @@
 layout: post
 title: "Zelda 2 Remake"
 date: 2005-05-19 18:52
+published: true
 comments: false
 categories:
 - General

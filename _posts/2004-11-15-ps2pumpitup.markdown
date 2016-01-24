@@ -2,6 +2,7 @@
 layout: post
 title: "pump it up for ps2"
 date: 2004-11-15 11:14
+published: true
 comments: false
 categories: 
 - General

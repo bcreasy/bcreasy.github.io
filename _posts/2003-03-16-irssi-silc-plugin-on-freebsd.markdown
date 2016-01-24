@@ -2,6 +2,7 @@
 layout: post
 title: "irssi SILC plugin on FreeBSD"
 date: 2003-03-16 02:10
+published: true
 comments: false
 categories:
 - General

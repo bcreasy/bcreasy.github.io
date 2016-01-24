@@ -2,6 +2,7 @@
 layout: post
 title: "weblogs killed the personal website"
 date: 2004-08-09 00:12
+published: true
 comments: false
 categories:
 - General

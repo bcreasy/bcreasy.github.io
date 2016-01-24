@@ -2,6 +2,7 @@
 layout: post
 title: "foxblocker"
 date: 2005-03-01 16:43
+published: true
 comments: false
 categories:
 - General

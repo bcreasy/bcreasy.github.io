@@ -2,6 +2,7 @@
 layout: post
 title: "2003-07-20"
 date: 2003-07-20 06:38
+published: true
 comments: false
 categories:
 - General

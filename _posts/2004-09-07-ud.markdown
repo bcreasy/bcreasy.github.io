@@ -2,6 +2,7 @@
 layout: post
 title: "hooray for cancer research!"
 date: 2004-09-07 23:33
+published: true
 comments: false
 categories:
 - General

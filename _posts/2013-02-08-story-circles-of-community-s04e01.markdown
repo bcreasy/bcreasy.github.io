@@ -2,6 +2,7 @@
 layout: post
 title: "Story Circles of Community s04e01"
 date: 2013-02-08 14:32
+published: true
 comments: false
 categories:
 - General

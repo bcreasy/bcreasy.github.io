@@ -2,6 +2,7 @@
 layout: post
 title: "christmas"
 date: 2004-12-27 14:46
+published: true
 comments: false
 categories:
 - Life

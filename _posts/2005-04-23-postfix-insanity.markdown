@@ -2,6 +2,7 @@
 layout: post
 title: "Postfix Insanity"
 date: 2005-04-23 18:21
+published: true
 comments: false
 categories:
 - General
