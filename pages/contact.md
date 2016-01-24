@@ -3,24 +3,24 @@ layout: page
 title: "Where Are You?"
 permalink: /contact/
 ---
-I can be found many places on the internets.  The most universally accessible way to get in touch with me is through [e-mail](mailto:genetik \(at\) caffeine \(dot\) nu), but the fastest for most people these days is via [Twitter](https://twitter.com/genetik).
+I can be found many places on the internets.  The most universally accessible way to get in touch with me is through [e-mail](mailto:genetik@caffeine.nu), but the fastest for most people these days is via [Twitter](https://twitter.com/genetik).
 
 ###Homes on the Internets###
 
-* **Twitter**: https://twitter.com/genetik
-* **Google+**: https://profiles.google.com/genetik
-* **LinkedIn**: https://www.linkedin.com/in/genetik
-* **Facebook**: https://www.facebook.com/brian.creasy
-* **Reddit**: https://www.reddit.com/user/genetik
-* **YouTube**: https://www.youtube.com/genetik123
-* **Instagram**: https://instagram.com/instagenetik
-* **GitHub**: https://github.com/bcreasy
-* **tumblr**: http://genetik.tumblr.com
-* **flickr**: https://www.flickr.com/photos/66978651@N00
-* **Steam**: https://steamcommunity.com/profiles/76561198009384713
-* **Vimeo**: https://vimeo.com/genetik
-* **Strava**: https://app.strava.com/athletes/349321
-* **Keybase**: https://keybase.io/genetik
+* **Twitter**: [https://twitter.com/genetik](https://twitter.com/genetik)
+* **Google+**: [https://profiles.google.com/genetik](https://profiles.google.com/genetik)
+* **LinkedIn**: [https://www.linkedin.com/in/genetik](https://www.linkedin.com/in/genetik)
+* **Facebook**: [https://www.facebook.com/brian.creasy](https://www.facebook.com/brian.creasy)
+* **Reddit**: [https://www.reddit.com/user/genetik](https://www.reddit.com/user/genetik)
+* **YouTube**: [https://www.youtube.com/genetik123](https://www.youtube.com/genetik123)
+* **Instagram**: [https://instagram.com/instagenetik](https://instagram.com/instagenetik)
+* **GitHub**: [https://github.com/bcreasy](https://github.com/bcreasy)
+* **tumblr**: [http://genetik.tumblr.com](http://genetik.tumblr.com)
+* **flickr**: [https://www.flickr.com/photos/66978651@N00](https://www.flickr.com/photos/66978651@N00)
+* **Steam**: [https://steamcommunity.com/profiles/76561198009384713](https://steamcommunity.com/profiles/76561198009384713)
+* **Vimeo**: [https://vimeo.com/genetik](https://vimeo.com/genetik)
+* **Strava**: [https://app.strava.com/athletes/349321](https://app.strava.com/athletes/349321)
+* **Keybase**: [https://keybase.io/genetik](https://keybase.io/genetik)
 
 ###IRC###
 
