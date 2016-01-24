@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "What Is This Thing?"
-permalink: /about
+permalink: /about/
 ---
 This site exists to serve as the central hub for my digital life.  A place on the internets, hosted and curated by me, that attempts to collect most of the things out there about me.  Here, you'll find web log posts I've written (and continue to write) over the years dating back to 2001, my professional resume, original media content, links to my various social networking/media sites, and much more. 
 
