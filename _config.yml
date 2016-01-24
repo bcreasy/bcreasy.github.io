@@ -63,6 +63,7 @@ locale: en_US
 paginate: 5
 paginate_path: "/log/page/:num/"
 category_dir: log/categories
+tags_dir: log/tags
 date_format: "%F %T"
 excerpt_link: "Read the full post &rarr;"
 titlecase: true
