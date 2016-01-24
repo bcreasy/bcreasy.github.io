@@ -7,11 +7,11 @@ layout: default
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%F %T" }}</span>
-
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+
+        <span class="post-meta">{{ post.date | date: "%F %T" }}</span>
 
         {% if post.content contains '<!-- more -->' %}
           {{ post.content | split:'<!-- more -->' | first }}
