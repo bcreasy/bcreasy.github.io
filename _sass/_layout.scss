@@ -184,6 +184,14 @@
     border-bottom: 1px solid $grey-color-light;
 }
 
+.inline-img-right {
+    float: right;
+    border: 1px solid $grey-color-light;
+    padding: 2px;
+    margin: 5px 0 5px 10px;
+    width: 400px;
+}
+
 #blog-archives {
     h2 {
         position: relative;

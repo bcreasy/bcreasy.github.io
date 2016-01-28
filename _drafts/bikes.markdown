@@ -1,0 +1,43 @@
+---
+layout: post
+title: "My Cycling Story"
+published: true
+comments: false
+categories:
+- General
+tags:
+- Cycling
+---
+On May 24, 2008, I bought my first road bike at the age of 26, a brand new white Specialized Allez with triple chainrings.  For over ten years leading up to that point, I had not ridden a bike at all.
+
+<!-- more -->
+
+Bicycles had always been part of my childhood growing up as a kid in the '80s and '90s: An obligatory toddler tricycle, a kid-sized bike with and without training wheels, a big kid single-speed bike, and two mountain bikes.  They weren't always the best quality bikes, but I rode them like hell with the other kids around my neighborhood.  I used them as transportation across my neighborhood and for fun playing bike tag, doing tricks and going off sweet jumps.  I went through all of those bikes before around 1996 when I got my driver's license and I had little use for a bike. <img src="/images/posts-embed/first_bike.jpg" alt="First Bike" class="inline-img-right"> For most of that childhood, however, even though a bike of some sort was part of it and I wasn't completely inactive, I was always one of the overweight kids [mostly because I ate too much]({% post_url 2013-06-09-weight-loss-side-effect %}).  So when I stopped riding a bike in high school and started getting really into computers, I didn't get any focused cardio exercise.  Marching band through all of high school and college helped me get a little bit of exercise, but still I led a mostly sedentary lifestyle.  After college, I continued living a sedentary, computer-centric lifestyle: wake up, drive to work, sit at a computer for 9 hours, drive home, sit at a computer for 6 hours, go to sleep, repeat.  This continued for four years or so after college until two friends, one of them a co-worker of mine, started talking to me about the bikes they ride.  One of them was even racing his.  I'm not really sure what part of it appealed to me, but I decided that I wanted to start riding a bike again.  At first, I was torn between whether to get a road bike or a mountain bike.  The last bike I had ridden was a mountain bike and I had never ridden a real road bike before.  But the racing friend of mine convinced me to get a road bike and "don't get a triple!"  I ignored his chainring advice, but it was probably for the best since I was in horrible physical shape and made much use of the triple gearing.
+
+It was 2008 and I owned my first real road bike in Pittsburgh, Pennsylvania.  Admittedly, I didn't ride it much the first two years I owned it.  I lived about a mile from work and was able to ride it there, but, because the weather isn't so nice up there, I didn't.  So two years of infrequent riding passed, while the bike just sat there in my apartment collecting dust for half a year at a time.  In autumn of 2009, I started going to a gym to try to get in a shape other than round.  At a height of 5-foot-7, I then weighed in at 215-219 pounds.  Twice a week most weeks, I would use the elliptical machine for cardio and do relatively light resistance training.  It was a nice gym, albeit pretty damn boring, but it was at least something during the cold and dreary winter months.  Spring of 2010 came around and I started taking my bike out for longer bike rides.  I was still riding in street clothes with platform pedals and distances were usually less than 10 miles.  But I enjoyed it.  A lot.
+
+Throughout the spring and summer of 2010, I rode a couple of times a week.  Always by myself.  Always the same route of riding to downtown from my apartment on the east side of the city, through the park, and back; There weren't many options of safe places to ride in Pittsburgh.  In October of 2010, I finally got my weight below 200 pounds for the first time in what I estimate was ten years thanks to a combination of periodic cycling and going to the gym.  I bought a set of rollers that winter so I could continue riding when it was cold outside, and I sometimes did.
+
+2011 was the year I planned to really focus on cycling.  I was still living in Pittsburgh and I wanted to be strong enough to try racing.  I even made it a point to symbolically ride on my rollers on new years eve as the clocks changed to 2011.  I got a dose of life perspective that February when a friend of mine suffered heart failure and died, which helped motivate me even further in becoming healthy.  In March, when it started getting warmer, I finally bought real cycling clothes and upgraded to clipless pedals.
+
+## Minor Setback ##
+
+A minor setback happened in mid-April, though: I managed to tear the medial meniscus on my right knee.  While it wasn't a major injury, and didn't prevent me from cycling for the most part, it required surgery to repair.  The tear wasn't actually diagnosed until late May and I postponed surgery until after I did the MS 150 ride in June with Michael Ahlers, the friend of mine who got me started with cycling.  But after the surgery, I had 2 months off from riding or any exercise at all.
+
+On August 11th, I went for my first ride after surgery.  Since the MS 150, I've been logging every single time I ride a bike.  That September, I went to Annapolis to do a metric century ride, again with Michael.  I rode a dozen or so times that August and September, all very easy rides to make sure I didn't re-injure my knee.  That September, I got a job offer that brought me down to Austin in November of 2011.
+
+## Austin, Texas ##
+
+After moving to Austin, an entirely new dimension of cycling was made available to me.  Finally, I could ride all year round and have a variety of safe and challenging places to ride.  One of the first things I did when I moved down here was visit Nelo's Cycles, the local bike shop just down the street from my apartment.  I introduced myself there, made friends with the people who work there and eventually started doing their shop rides when they started up in the spring.  Until that point, I had always ridden solo.  So the group rides gave me the opportunity to meet new people and a better reason to challenge myself.
+
+In the beginning of 2012, at 30 years old, I hit my highest weight ever: 220.  But when March came around, I was riding consistently both solo and with a group, at the very least 3 times a week.  At the same time, I was doing resistance training and eating a generally healthy diet.  Overall, living a healthy and active lifestyle.  Gradually, just by loving cycling, the weight just kept going down and I kept getting faster.
+
+Through Nelo's shop ride, I met Todd Musick and he eventually introduced me to Bicycle Sport Shop where he worked.  I upgraded my old Allez triple to a new Specialized Roubaix Expert from Bicycle Sport Shop in August of 2012.  While my old bike may have gotten me started with riding again, as soon as I test rode the Roubaix, I realized that my potential had been held back by Allez.
+
+## Getting Dropped Happens ##
+
+When I started out riding with a group in the beginning of 2012, they dropped me almost immediately and I wouldn't see them until the next regrouping point.  But I kept showing up to every single ride and eventually I was strong enough to hold on the whole ride.  Starting in 2013, I began riding at least 100 miles a week with multiple shop rides and occasional solo rides.  I even bought a cheap, used single-speed commuter bike that year so I could ride to work and park in public places without worrying about it being stolen.  In 2013, I rode 4000 miles total.  Probably more than the rest of my life combined.  Even now with being able to hold on to the groups I ride with, I like to take on the strongest riders in the pack on climbs and sprint sections and often lose.  This makes me work harder and strive to be even better.
+
+I'm currently (January 2014) at what I feel is my optimal weight of 155 pounds.  I still have plenty of muscle to gain and flab to lose, though.  Simply through eating a healthy diet, light resistance training and consistent challenging riding, I lost 65 pounds in a year and a half.  At the same time, I've made friends in a culture that embraces cycling and fitness as a core lifestyle activity.
+
+I do not regret spending those 10+ years of my life without a bike, but I sometimes wonder what my life would be like today if I had never stopped in high school.  2013 was a good year for me and cycling.  I'm 32 years old now and in the best physical shape of my life.  I think I'll do it again in 2014, only better.
