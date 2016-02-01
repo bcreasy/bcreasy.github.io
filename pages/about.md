@@ -5,7 +5,7 @@ permalink: /about/
 ---
 This site exists to serve as the central hub for my digital life.  A place on the internets, hosted and curated by me, that attempts to collect most of the things out there about me.  Here, you'll find web log posts I've written (and continue to write) over the years dating back to 2001, my professional resume, original media content, links to my various social networking/media sites, and much more. 
 
-In May of 2013, I decided to put this site together.  Not including various social media sites, my public web presense sort of came to a halt in 2005 due to lack of interest in much other than work or World of Warcraft.  Since then, much has happened, yet not enough has been recorded.  That's where this site will hopefully do better.  I believe it's important to take ownership of everything I've written and created instead of relying on third party hosting services.  I've chosen [Octopress](http://www.octopress.org) for the framework because it reminds me of a simpler time on the web when there were no database backends to deal with, when a web site was just a series of flat HTML pages.
+In May of 2013, I decided to put this site together.  Not including various social media sites, my public web presense sort of came to a halt in 2005 due to lack of interest in much other than work or World of Warcraft.  Since then, much has happened, yet not enough has been recorded.  That's where this site will hopefully do better.  I believe it's important to take ownership of everything I've written and created instead of relying on third party hosting services.  The website is built using a static content generator framework called [Jekyll](http://www.jekyllrb.com) - it reminds me of a simpler time on the web when there were no database backends to deal with, when a web site was just a series of flat HTML pages.
 
 ##Who Are You?##
 
@@ -17,6 +17,6 @@ Professionally, I am a Release Engineer currently working in the [retail point-o
 
 As with most people with an engineering mindset, I am interested in science-type things.  Biology, astronomy, and nutrition are the first to come to mind right now.  While most of my computers are Apple-made, I have a very strong background with \*nix platforms and prefer to interact with all computers through command line; FreeBSD and Debian Linux power my servers.
 
-I am a cyclist.  Cycling plays a significant role in my life and health and is what takes up a majority of my spare time.  I track all of my ride data and post the logs to [Strava](http://www.strava.com).  You'll find a feed of my most recent rides on the side panel of this site.
+I am a cyclist.  Cycling plays a significant role in my life and health and is what takes up a majority of my spare time.  I have a Category 4 road racing license and participate in most criterium and road races in and around Austin.
 
-When I'm not working or riding my bike, I like to watch films and television shows, listen to podcasts, read books, and use oxford commas.
+When I'm not riding my bike or working, I like to watch films and television shows, listen to podcasts, read books, and use oxford commas.
