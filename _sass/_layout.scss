@@ -192,6 +192,14 @@
     width: 400px;
 }
 
+.inline-img-left {
+    float: left;
+    border: 1px solid $grey-color-light;
+    padding: 2px;
+    margin: 5px 10px 5px 0;
+    width: 400px;
+}
+
 #blog-archives {
     h2 {
         position: relative;
