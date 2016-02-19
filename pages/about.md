@@ -20,3 +20,5 @@ As with most people with an engineering mindset, I am interested in science-type
 I am a cyclist.  Cycling plays a significant role in my life and health and is what takes up a majority of my spare time.  I have a Category 4 road racing license and participate in most criterium and road races in and around Austin.
 
 When I'm not riding my bike or working, I like to watch films and television shows, listen to podcasts, read books, and use oxford commas.
+
+Here is what I am doing [/now]({{ root_url }}/now).
