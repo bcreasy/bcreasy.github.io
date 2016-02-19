@@ -24,6 +24,7 @@ includes_dir: _includes
 
 # site paths
 root: /
+images_dir: "/images/posts-embed"
 
 # Handling Reading
 safe: false # safe mode: if true, disable plugins and ignore symlinks
