@@ -4,7 +4,7 @@ title: "Thanksgiving"
 date: 2014-11-24 21:00:00 -0600
 published: true
 comments: false
-categories: 
+categories:
 - General
 tags:
 - Vegan
@@ -18,7 +18,7 @@ I'd secretly planned the trip for months in advance between me and my brother an
 
 <!-- more -->
 
-I'd decided to [begin following a vegan lifestyle](/log/2013/09/06/vegan/) a few months prior, for ethical reasons, and this was the first time I put myself in this kind of situation.  I sat at the dinner table surrounded by my loving family, none of whom are vegetarian, but all of whom have always loved animals.  I was overcome by a profound sadness that nearly brought me to tears while staring at the dead turkey on the table.  This was a turkey whose world was full of confusion and fear, whose only life was filled with pain and suffering.  At only 5 months old, he was killed by the humans who abused and overfed him to be over twice the weight normal for his age.  Outside of captivity, he could have had a natural lifespan of up to 10 years.  I sat there thinking about the life of this poor animal who was born with many natural instincts, yet was never allowed to fulfill any of them.  Instead, my animal-loving family paid someone to abuse and kill him so they could have a few mouthfuls of pleasure, while celebrating a holiday centered around friends, family, food, and happiness.
+I'd decided to [begin following a vegan lifestyle]({% post_url 2013-09-05-vegan %}) a few months prior, for ethical reasons, and this was the first time I put myself in this kind of situation.  I sat at the dinner table surrounded by my loving family, none of whom are vegetarian, but all of whom have always loved animals.  I was overcome by a profound sadness that nearly brought me to tears while staring at the dead turkey on the table.  This was a turkey whose world was full of confusion and fear, whose only life was filled with pain and suffering.  At only 5 months old, he was killed by the humans who abused and overfed him to be over twice the weight normal for his age.  Outside of captivity, he could have had a natural lifespan of up to 10 years.  I sat there thinking about the life of this poor animal who was born with many natural instincts, yet was never allowed to fulfill any of them.  Instead, my animal-loving family paid someone to abuse and kill him so they could have a few mouthfuls of pleasure, while celebrating a holiday centered around friends, family, food, and happiness.
 
 That was the last thanksgiving I intend to celebrate, so long as turkey or any other animal is eaten as part of it.
 

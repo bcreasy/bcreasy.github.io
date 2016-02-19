@@ -11,7 +11,7 @@ tags:
 - Community
 - tumblr
 ---
-In my previous [post about the first episode of this season of Community]({{ root_url }}/log/2013/02/08/story-circles-of-community-s04e01/), I made the assertion that it felt weird because it did not follow one of Dan Harmon's story circles. I'm now revising my evaluation because I wasn't thinking about it in the right context.
+In my previous [post about the first episode of this season of Community]({% post_url 2013-02-08-story-circles-of-community-s04e01 %}), I made the assertion that it felt weird because it did not follow one of Dan Harmon's story circles. I'm now revising my evaluation because I wasn't thinking about it in the right context.
 
 <!-- more -->
 

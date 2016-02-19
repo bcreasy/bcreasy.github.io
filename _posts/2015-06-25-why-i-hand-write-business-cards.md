@@ -17,7 +17,7 @@ I give out hand-written business cards.  I'm told that when people first look at
 
 The first time I made my business cards was for attending [Devopsdays](http://www.devopsdays.org) [Austin in 2014](http://www.devopsdays.org/events/2014-austin/).  Prior to the conference, it occurred to me that I should be prepared for a lot of networking with people in my industry.  I'm not supplied business cards at my current full time job, so I would need to make some on my own to identify myself to others.  This got me thinking about how I would present myself and make it easy for people to remember me.  I tend to take a do-it-yourself approach to most things, so making my own business card is fitting.  I could have easily used a boilerplate design and printed them out on high-quality cards.  I would have designed them myself, so why not just go the extra step of creating them myself literally by hand?
 
-![2015 Business Cards](/images/posts-embed/businesscards00.jpg)
+![2015 Business Cards]({{ root_url }}/images/posts-embed/businesscards00.jpg)
 
 ## Making the Cards ##
 

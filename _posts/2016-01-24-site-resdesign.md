@@ -16,7 +16,7 @@ I spent nearly all of my time this past weekend working on switching this site t
 
 <!-- more -->
 
-Since [2013](/log/2013/05/11/back-to-the-future/), when I brought this site to life, I'd been using [Octopress](http://octopress.org) as its static content generator.  Octopress started out as a fork of Jekyll that was highly customized, but over the years, it's seen less and less development.  I was in the mood for redesigning my website, but the amount of work that I would have needed to put into working with the old version of Octopress just wasn't worth it.  So I decided to just start fresh with plain old Jekyll and no third party stuff.
+Since [2013]({% post_url 2013-05-06-back-to-the-future %}), when I brought this site to life, I'd been using [Octopress](http://octopress.org) as its static content generator.  Octopress started out as a fork of Jekyll that was highly customized, but over the years, it's seen less and less development.  I was in the mood for redesigning my website, but the amount of work that I would have needed to put into working with the old version of Octopress just wasn't worth it.  So I decided to just start fresh with plain old Jekyll and no third party stuff.
 
 A nice thing about Jekyll is that it's pretty minimal as far as features go.  Like Octopress, Jekyll uses [Liquid](http://liquidmarkup.org) as its templating engine.  Because it's stripped down, I had to do a lot of customization to get things to behave how I wanted them to.
 

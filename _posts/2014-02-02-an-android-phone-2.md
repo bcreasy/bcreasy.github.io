@@ -14,7 +14,7 @@ tags:
 - Hardware
 - FOSS
 ---
-My new cell phone, a [Samsung Galaxy S4 Mini (GT-i9190)](/log/2013/11/07/an-android-phone/), runs Android 4.2.2, but I've installed a custom distribution called [Cyanogenmod](http://www.cyanogenmod.org) and made modifications/tweaks to make it more secure.
+My new cell phone, a [Samsung Galaxy S4 Mini (GT-i9190)]({% post_url 2013-11-07-an-android-phone %}), runs Android 4.2.2, but I've installed a custom distribution called [Cyanogenmod](http://www.cyanogenmod.org) and made modifications/tweaks to make it more secure.
 
 <!-- more -->
 
@@ -28,7 +28,7 @@ My new cell phone, a [Samsung Galaxy S4 Mini (GT-i9190)](/log/2013/11/07/an-andr
 
 ### Installing Cyanogenmod
 
-![Bell](/images/posts-embed/bell.png)
+![Bell]({{ root_url }}/images/posts-embed/bell.png)
 
 I chose Cyanogenmod for a few reasons: First of all, being it's completely Free (as in speech) and includes no proprietary software.  It's also the most widely used Android ROM, so it's well-supported on my device and kept very up to date with current Android versions.
 
@@ -91,4 +91,4 @@ I perform automatic encrypted torrent-based backups on both my external sdcard a
 
 ### Conclusion
 
-As you can see, I put a little bit of effort into customizing my phone to my needs.. and my needs aren't much, as I focused on in [Part 1](/log/2013/11/07/an-android-phone/).  Full-disk encryption aside (which I should probably do at some point), I also focused on making my device secure and private while keeping it as useful as I need it to be.  I encourage you to do the same.
+As you can see, I put a little bit of effort into customizing my phone to my needs.. and my needs aren't much, as I focused on in [Part 1]({% post_url 2013-11-07-an-android-phone %}).  Full-disk encryption aside (which I should probably do at some point), I also focused on making my device secure and private while keeping it as useful as I need it to be.  I encourage you to do the same.

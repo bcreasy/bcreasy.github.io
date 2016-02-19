@@ -41,7 +41,7 @@ PGP Public Key: [genetik-gpg.asc]({{ root_url }}/gpg/genetik-gpg.asc)
 
 PGP Fingerprint: <code>A063 4B43 3DD4 72EC 6A53  24CC 4C2F 9E44 C5C4 1DF6</code>
 
-**Note**: As of 2015-08-05, I began transitioning to a 4096-bit RSA PGP key.  My deprecated key fingerprint is <code>7D24 82AF F764 5EF7 5DE1  E401 58C2 968C BCA6 4D46</code>.  Here is my transition statement: [key-transition-2015-08-05-genetik.txt](/gpg/key-transition-2015-08-05-genetik.txt).
+**Note**: As of 2015-08-05, I began transitioning to a 4096-bit RSA PGP key.  My deprecated key fingerprint is <code>7D24 82AF F764 5EF7 5DE1  E401 58C2 968C BCA6 4D46</code>.  Here is my transition statement: [key-transition-2015-08-05-genetik.txt]({{ root_url }}/gpg/key-transition-2015-08-05-genetik.txt).
 
 
 ###Bitcoin###
