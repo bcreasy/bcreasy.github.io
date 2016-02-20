@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Site Redesign"
-date: 2016-01-24 14:30
+date: 2016-01-24 14:30:00 -0600
 published: true
 comments: false
 categories:
