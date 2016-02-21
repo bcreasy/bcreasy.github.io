@@ -33,7 +33,9 @@ include:
   - ".well-known"
   - "gpg"
   - "resume"
-exclude: []
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
 keep_files:
   - ".git"
   - ".svn"
