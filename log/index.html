@@ -3,10 +3,10 @@ layout: default
 sitemap: false
 ---
 
-<div class="home">
+<div class="log">
 
   <ul class="post-list">
-    {% for post in site.posts limit: site.paginate %}
+    {% for post in paginator.posts %}
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -34,8 +34,13 @@ sitemap: false
   </ul>
 
   <div class="pagination">
-    <a class="prev" href="/log/page/2">&larr; Older</a>
+    {% if paginator.next_page %}
+      <a class="prev" href="{{paginator.next_page_path}}">&larr; Older</a>
+    {% endif %}
     <a href="/log/archives">Log Archives</a>
+    {% if paginator.previous_page %}
+    <a class="next" href="{{paginator.previous_page_path}}">Newer &rarr;</a>
+    {% endif %}
   </div>
 
 </div>
