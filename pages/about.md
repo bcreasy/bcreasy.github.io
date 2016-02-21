@@ -7,7 +7,7 @@ This site exists to serve as the central hub for my digital life.  A place on th
 
 In May of 2013, I decided to put this site together.  Not including various social media sites, my public web presence sort of came to a halt in 2005 due to lack of interest in much other than work or World of Warcraft.  Since then, much has happened, yet not enough has been recorded.  That's where this site will hopefully do better.  I believe it's important to take ownership of everything I've written and created instead of relying on third party hosting services.  The website is built using a static content generator framework called [Jekyll](http://www.jekyllrb.com) - it reminds me of a simpler time on the web when there were no database backends to deal with, when a web site was just a series of flat HTML pages.
 
-##Who Are You?##
+### Who Are You? ###
 
 My name is Brian, but I will also answer to the names "genetik" and "Pipo".  I live in Austin, Texas, but I grew up and spent the first 30 years of my life in Pittsburgh, Pennsylvania.  I live with a cat named Lina who is the smartest cat in the world.
 
