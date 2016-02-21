@@ -12,7 +12,7 @@ author: Brian J. Creasy
 email: genetik@caffeine.nu
 description: The personal website of a human named Brian Creasy.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.briancreasy.com"
+url: "https://www.briancreasy.com"
 
 # code paths
 source: .
