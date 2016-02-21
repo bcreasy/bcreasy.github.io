@@ -59,7 +59,7 @@ highlighter: rouge
 excerpt_separator: "<!-- more -->"
 
 # Outputting
-permalink: /log/:year/:month/:day/:title/
+permalink: /log/:title/
 timezone: America/Chicago
 locale: en_US
 paginate: 5
