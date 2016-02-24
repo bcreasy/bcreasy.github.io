@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "What I Intend On Doing Later"
+title: "What I Intend To Do Later"
 permalink: /later/
 updated: 2016-02-18
 ---
