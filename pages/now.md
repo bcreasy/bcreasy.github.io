@@ -2,7 +2,7 @@
 layout: page
 title: "What I'm Doing Now"
 permalink: /now/
-updated: 2016-02-29
+updated: 2016-06-08
 ---
 _Last Updated: {{ page.updated }}_
 
@@ -17,7 +17,6 @@ I'm in Austin, Texas, living a simple and quiet life, focusing on these things:
 - Reducing my body weight to 147 pounds.
 - Learning about various personal finance topics.
 - Aiming for a 65% average savings rate and maintaining at least 50%.
-- Writing a web log post about sports.
 - Reading "Brave New World".
 
 Here is how I intend to spend my time and energy [/later]({{ root_url }}/later).
