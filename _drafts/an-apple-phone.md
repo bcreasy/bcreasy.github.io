@@ -19,19 +19,19 @@ Back in 2013, I wrote about my decision to switch to an Android phone.  I starte
 
 Early in 2016, Apple became wrapped up in a legal case with the U.S. Government's FBI when they were approached by the FBI to help them break into their phone to retrieve personal information of a terrorist suspect.  Apple's response was very interesting: "We literally can't with the version of iOS on that phone."  And when asked if they could write a back door patch for the government to use, they said "No."  Simply put, Apple's encryption is strong enough that the government couldn't break in, and Apple refused as a company to give them the keys to the kingdom.
 
-As a result of Apple's public position on encryption and privacy (two things I am very in tune with), I came to like them much more.  While it's definitely possible for me to put strong encryption on my Android devices, it's ultimately up to me to secure it - and I'm not a security professional, nor do I have a ton of spare time to do the research and maintenance needed to keep up to date with the latest software.  It was at that time that the thought of switching back to an Apple phone started poking me in the brain.  The problem was, none of the latest phones that had the strongest encryption fit my size criteria.
+As a result of Apple's public position on encryption and privacy (two things I am very in tune with), I came to like them much more than I already did.  While it's definitely possible for me to put strong encryption on my Android devices, it's ultimately up to me to secure it - and I'm not a security professional, nor do I have a ton of spare time to do the research and maintenance needed to keep up to date with the latest software.  It was at that time that the thought of switching back to an Apple phone started poking me in the brain.  The problem was, none of the latest phones that had the strongest encryption fit my size criteria.
 
 # Along Comes A Smaller iPhone
 
-Maybe Apple does listen to potential customers like me, because only months later, they announced that they were releasing a brand new iPhone that has the same physical dimensions as their iPhone 5.  Those dimensions are the standard I hold to any phone I consider using because I think it's a perfect size.
+Maybe Apple does listen to potential customers like me, because only months later, they announced that they were releasing a new iPhone model that has the same physical dimensions as their iPhone 5.  Those dimensions are the standard I hold to any phone I consider using because I think it's a perfect size.
 
 So when Apple released their iPhone SE that has the same strong encryption and privacy features as the iPhone 6s, I really started to struggle with the decision to switch back to an Apple phone.
 
 # Moto G Fading
 
-My Moto G phone has been suddenly shutting down on bike rides, and suddenly rebooting while sitting on my desk.  Sometimes, it will get to the first stage boot loader and complain about a corrupt boot partition.  I can usually get it to get past that, but it takes some time.  On one occasion, I left it unplugged overnight with a battery charge of about 60% and woke up to find the battery completely drained to the point where it couldn't even start charging.  I needed to press and hold a series of buttons on the device just to get it to start charging.  Apparently this is a known issue on this phone and, based on the amount of internet questions about it, relatively common.  Hugely inconvenient.
+My Moto G phone had been suddenly shutting down on bike rides, and suddenly rebooting while sitting on my desk.  Sometimes, it would get to the first stage boot loader and complain about a corrupt boot partition.  I could usually get it to get past that, but it took some time.  On one occasion, I left it unplugged overnight with a battery charge of about 60% and woke up to find the battery completely drained to the point where it couldn't even start charging.  I needed to press and hold a series of buttons on the device just to get it to start charging.  Apparently this is a known issue on this phone and, based on the amount of internet questions about it, relatively common.  Hugely inconvenient.
 
-Then this past week the battery issue happened again overnight, and this time it wouldn't start charging even after doing the button-pressing dance.  I took it with me to work and tried to get it to boot or even start charging.  Eventually, I took it apart and re-seated the internal battery connector and then did the button-pressing dance to find it finally able to start charging and eventually boot.  This was at 2pm.
+Then this past week the battery issue happened again overnight, and this time it wouldn't start charging even after doing the button-pressing dance.  I took it with me to work and tried to get it to boot or even start charging.  Eventually, I took it apart and re-seated the internal battery connector and then did the button-pressing dance to find it finally able to start charging and eventually boot.  That was at 2pm.
 
 It took me 7 hours of waiting and trying periodically to just get the phone to a point where I could potentially use it, and another 3 hours for it to fully charge.  This all happened 4 days before I was leaving for 10-days worth of travel, so this put me in a time crunch to find a solution.
 
@@ -61,7 +61,7 @@ It's the frugal move to choose an Android phone.  But the time spent setting up 
 
 # An Apple Phone
 
-So at lunch on Tuesday, I went to the Apple Store and bought a silver iPhone SE, with 16gb of memory, plus Apple Care.
+So at lunch on the Tuesday two days before my trip, I went to the Apple Store and bought a silver iPhone SE, with 16gb of memory, plus Apple Care.
 
 I got a silver one because it doesn't show superficial damage (scratches, etc) as much as a black one.  This increases resell value.
 
@@ -72,3 +72,5 @@ In iOS, I locked down most of the privacy settings and keep cellular data turned
 The phone is fully encrypted, and I decided to use the fingerprint biometric authentication.  A feature of the fingerprint authentication is that it stops allowing that method if you don't use it in a 48 hour window.
 
 Soon, even iCloud backups will be fully user-encrypted so that Apple can't be compelled to give that data to officials.
+
+All in all I'm happy with my decision to switch back to an iPhone, even though the cost took a chunk out of my savings rate for July.
