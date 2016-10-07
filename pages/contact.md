@@ -32,6 +32,8 @@ I've been connected to IRC almost constantly since the late 90s.  I can be found
 * **Google Talk**: <code>genetik&#64;gmail.com</code>
 * **iMessage**: <code>genetik&#64;gmail.com</code>
 
+If you have my telephone number, I'm can also be reached using [Signal](https://whispersystems.org/) and [Telegram](https://telegram.org).
+
 ### PGP ###
 
 Use of encryption is [very important to me and the rest of the world](https://www.privacyinternational.org/?q=node/599).  If possible, please take the time to encrypt communication with me.  My PGP key ID is <code>0x4C2F9E44C5C41DF6</code>
