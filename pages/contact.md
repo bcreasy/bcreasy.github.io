@@ -30,7 +30,7 @@ I've been connected to IRC almost constantly since the late 90s.  I can be found
 
 * **AIM**: <code>bcreasy123</code> (home), <code>bcreasyCF</code> (work)
 * **Google Talk**: <code>genetik&#64;gmail.com</code>
-* **iMessage**: <code>genetik&#64;gmail.com</code>
+* **iMessage**: <code>genetik&#64;caffeine.nu</code>
 
 If you have my telephone number, I'm can also be reached using [Signal](https://whispersystems.org/) and [Telegram](https://telegram.org).
 
