@@ -2,6 +2,14 @@ body {
 	border: none !important;
 }
 
+h1 {
+	font-size: 250%;
+}
+
+div#footer {
+	border-top: 0;
+}
+
 a:link { color: #333; text-decoration: none; }
 a:visited { color: #333; text-decoration: none; }
 a:hover { color: #333; text-decoration: none; }
