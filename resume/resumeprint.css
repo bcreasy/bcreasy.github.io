@@ -1,3 +1,7 @@
+html {
+	background-color: transparent;
+}
+
 body {
 	border: none !important;
 }
@@ -7,7 +11,7 @@ h1 {
 }
 
 div#footer {
-	border-top: 0;
+	background-color: #fff;
 }
 
 a:link { color: #333; text-decoration: none; }
