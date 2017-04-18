@@ -3,7 +3,7 @@ layout: page
 title: "Where Are You?"
 permalink: /contact/
 ---
-I can be found many places on the internets.  The most universally accessible way to get in touch with me is through [e-mail](mailto:genetik@caffeine.nu), but the fastest for most people these days is via [Twitter](https://twitter.com/genetik).
+I can be found many places on the internets.  The most universally accessible way to get in touch with me is through [e-mail](mailto:genetik@caffeine.nu).
 
 ### Homes on the Internets ###
 
