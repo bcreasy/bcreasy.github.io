@@ -2,7 +2,7 @@
 layout: page
 title: "What I'm Doing Now"
 permalink: /now/
-updated: 2017-01-10
+updated: 2017-04-18
 ---
 _Last Updated: {{ page.updated }}_
 
@@ -13,11 +13,11 @@ I'm in Austin, Texas, living a simple and quiet life, focusing on these things:
 - Advocating for non-human and human animal rights.
 - Reducing my ecological and economical footprints.
 - Reducing my personal possessions through selling and donating.
-- Base miles and general fitness building in preparation for the 2017 race season.
+- Maintaining bicycle fitness during 2017 race season.
 - Reducing my body weight to 147 pounds.
 - Learning about various personal finance topics.
 - Aiming for a 65% average savings rate and maintaining at least 50%.
-- Reading "Hardcore Zen".
+- Reading "Clutterfree With Kids".
 
 Here is how I intend to spend my time and energy [/later]({{ root_url }}/later).
 
