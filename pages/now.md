@@ -22,4 +22,4 @@ I'm in Austin, Texas, living a simple and quiet life, focusing on these things:
 
 Here is how I intend to spend my time and energy [/later]({{ root_url }}/later).
 
-_“Now” page inspired by [Derek Sivers](https://sivers.org/nowff)._
+"Now" page inspired by [Derek Sivers](https://sivers.org/nowff).
